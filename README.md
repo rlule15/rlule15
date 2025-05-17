@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A passionate developer from the USA</h3>
 
-- 🔭 I’m currently working on **Personal Expense Tracker**
+- 🔭 I’m currently working on **NextHire**
 
 - 🌱 I’m currently learning **Express js**
 
